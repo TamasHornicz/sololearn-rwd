@@ -14,9 +14,9 @@ section{
     padding: 40px;
     text-align: center;
 }
-.features{
-    background-color: white;
-columns: white  ;
+.features {
+    background: #FFFFFF;
+    color: #000000;
 }
 .feature img {
     width: 40%;
@@ -29,11 +29,12 @@ columns: white  ;
 columns: white  ;
 }
 
-footer{
-    background-color: #353535;
-    padding: 32px 0 ;
+footer {
+    background: #353535;
+    padding: 32px 0;
     text-align: center;
-    color: #868686   ;
+    color: #868686;
+    font-size: 12px;
 }
 h1{
         font-size: 48px;
