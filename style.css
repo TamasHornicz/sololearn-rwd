@@ -70,3 +70,8 @@ max-width: 900px;
 .btn:hover {
     background: #468486;
 }
+blockquote {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
