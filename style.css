@@ -18,6 +18,12 @@ section{
     background-color: white;
 columns: white  ;
 }
+.feature img {
+    width: 40%;
+}
+.quote {
+    background:#549DA0;
+    color:#FFFFFF;
 .quote{
     background-color: #549da0;
 columns: white  ;
