@@ -1,3 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica, sans-serif;
+    line-height: 1.45;
+}
 header{
     color: white;
 background-color: #284b63;
@@ -22,9 +28,6 @@ footer{
     padding: 32px 0 ;
     text-align: center;
     color: #868686   ;
-    
-
-
 }
 h1{
         font-size: 48px;
@@ -40,4 +43,18 @@ h2{
 margin: 0 auto;
 padding: 0 20px;
 max-width: 900px;
+}
+.btn {
+    display: inline-block;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    background: #549DA0;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 16px;
+    cursor: pointer;
+}
+.btn:hover {
+    background: #468486;
 }
