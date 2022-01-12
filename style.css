@@ -123,18 +123,12 @@ footer li a:hover {
         padding: 25px 0 15px 0;
     } 
     .feature {
-        width: 100%;
-        text-align: left;
-        margin: 0 0 10px 0;
-        font-size: 16px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+       width: 32%;
+       display: inline-block;
+       font-size: 16px;
     }
     .feature img {
-        width:15%;
-        min-width:60px;
-        margin-right:20px;
+       width: 40%;
     }
     .quote {
         padding: 30px 0;
