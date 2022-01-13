@@ -1,5 +1,5 @@
-$(function) {
-    $(".btn").click(function(){
+$(function() {
+    $(".btn").click(function() {
         $(".submenu").slideToggle(500);
     });
 });
